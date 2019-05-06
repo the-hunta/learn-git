@@ -1,1 +1,1 @@
-HashChangeEvent
+localStorage
